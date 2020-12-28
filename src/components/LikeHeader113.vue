@@ -12,7 +12,7 @@ export default {
             lastname:'donald'
             },
         }
-    },
+    }, 
     props:["headerText"]
 }
 </script>

@@ -9,7 +9,7 @@
 <script>
 export default {
     destroyed(){
-        console.log("destroyed");
+        console.log("destroyedaa");
     }
 }
 </script>
